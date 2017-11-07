@@ -55,6 +55,7 @@ test-suite variant
     [ run recursive_wrapper_move_test.cpp ]
     [ run variant_over_joint_view_test.cpp ]
     [ run const_ref_apply_visitor.cpp ]
+    [ run rvalue_mutable_visitor_apply_visitor.cpp ]
    ; 
 
 
